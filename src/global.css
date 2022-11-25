@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=OCR+A+Extended:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-nunito-sans: "Nunito Sans";
+  --font-ocr-a-extended: "OCR A Extended";
+  --font-inter: Inter;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-2xs: 12px;
+  --font-size-xs: 14px;
+  --font-size-sm: 16px;
+  --font-size-base: 18px;
+  --font-size-lg: 20px;
+  --font-size-xl: 24px;
+  --font-size-2xl: 26.03px;
+  --font-size-3xl: 30px;
+  --font-size-4xl: 32px;
+  --font-size-5xl: 48px;
+  --font-size-6xl: 58px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #f8f9fa;
+  --color-gray-200: #857d7d;
+  --color-gray-300: #6c757d;
+  --color-gray-400: #343a40;
+  --color-gray-500: rgba(0, 0, 0, 0.13);
+  --color-gray-600: rgba(0, 0, 0, 0.5);
+  --color-teal-100: #3498db;
+  --color-teal-200: #0087d3;
+  --color-green: #28a745;
+  --color-gold: #ffc107;
+
+  /* border radiuses */
+  --br-sm: 4.8px;
+  --br-md: 8px;
+  --br-lg: 24px;
+}
